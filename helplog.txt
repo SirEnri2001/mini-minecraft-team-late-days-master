@@ -1,0 +1,20 @@
+11/10 
+Xinghua helped Zhanbo to solve the segment fault in opengl rendering. He correct the GL_ELEMENT_ARRAY_BUFFER into GL_ARRAY_BUFFER.
+Zhanbo helped Yang Yu modified jump behavior, making player's move more smooth
+
+11/19 
+Xinghua helped Zhanbo to debug the multithreading terrain generator.
+
+12/1
+Yang Yu Began implementing the fluid simulation. Faced initial challenges with the physics model.
+Zhanbo Lin Assisted Yang with shader programming techniques, aiding in overcoming the initial hurdles.
+
+12/2
+Xinghua Han Started developing the procedural sky. Received optimization tips from Yang, improving the algorithm's performance.
+
+12/7
+Yang Yu Focused on the post-process camera overlay, working with Xinghua to synchronize it with weather patterns.
+Zhanbo Lin Integrated distance fog into the environment, adjusting it to work with changing weather conditions.
+
+12/10
+Xinghua Han Finalized the weather system features. Conducted a joint testing session with Yang and Zhanbo to ensure all elements interacted harmoniously.
